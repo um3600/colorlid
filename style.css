@@ -395,15 +395,4 @@ section{
     cursor: pointer;
     color: #fff;
 }
-/* Responsive */
-@media (max-width: 900px) {
-    .contact-box {
-        flex-direction: column;
-        width: 90%;
-    }
 
-    .contact-form,
-    .contact-info {
-        width: 100%;
-    }
-}
